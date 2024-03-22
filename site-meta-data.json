@@ -3,7 +3,7 @@
   "siteUrl": "https://schebet.netlify.app",
   "description": "(Vesti iz Šebet najnovije i ostale)",
   "home": {
-    "title": "Koje ima novo po Šebet !!! ",
-    "description": "### **(a i šta je bilo po Šebet)**\n\n> Još informacija možeš naći na linkovima: [LINKOVI-ŠEBET](https://bit.ly/m/schebet-link) ili pitaj CHAT-BOT o Šebetu u donjem desnom uglu (recimo stari brojevi telefona u Šebetu)\n\n### **(a i šta je bilo po Šebet)** \nJ﻿oš informacija možeš naći na linkovima:  [LINKOVI-ŠEBET](https://bit.ly/m/schebet-link) \ni﻿li pitaj CHAT-BOT o Šebetu u donjem desnom uglu (recimo stari brojevi telefona u Šebetu)\n\n<script src=\"https://cdn.jsdelivr.net/gh/jryebread/shpe/chat.min.js\" id=\"še_bot-e3e7d081-dd83-49a0-8923-22393d50190d\"></script>"
+    "title": "Koje ima novo po Šebet !!! (a i šta je bilo po Šebet)",
+    "description": "\n\n<script src=\"https://cdn.jsdelivr.net/gh/jryebread/shpe/chat.min.js\" id=\"še_bot-e3e7d081-dd83-49a0-8923-22393d50190d\"></script>"
   }
 }
