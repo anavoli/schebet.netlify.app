@@ -11,6 +11,9 @@ thumbnail: /assets/šebet-moj.jpg
 ---
 ![pogled sa Suve planine](/assets/šebet-moj.jpg "selo Šebet")
 
+> Još informacija možeš naći na linkovima: [LINKOVI-ŠEBET](https://bit.ly/m/schebet-link) ili pitaj CHAT-BOT o Šebetu u donjem desnom uglu (recimo stari brojevi telefona u Šebetu)
+
+
 # О Шебету
 
 Шебет је лоциран у Горњем Заплању. Налази се на западним падинама Суве планине (1.810 m), y југозападном подножју њеног врха Дебелац (1.671 m) и изворишном делу Шебетске реке, десне притоке Кутинске реке, 4,5 km источно од регионалног пута Никола Тесла — Гаџин Хан — Краставче — Доњи Душник — Равна Дубрава. Удаљен је 23,5 km југоисточно од Гаџиног Хана и 45,5 km југоисточно од Ниша. Простире се у висинском појасу од 620 до 720 m.
