@@ -11,8 +11,7 @@ thumbnail: /assets/šebet-moj.jpg
 ---
 ![pogled sa Suve planine](/assets/šebet-moj.jpg "selo Šebet")
 
-> Još informacija možeš naći na linkovima: [LINKOVI-ŠEBET](https://bit.ly/m/schebet-link) ili pitaj CHAT-BOT o Šebetu u donjem desnom uglu (recimo stari brojevi telefona u Šebetu)
-
+> Još informacija možeš naći na linkovima: [LINKOVI-ŠEBET](https://bit.ly/m/schebet-link) ili pitaj CHAT-BOT o Šebetu u donjem desnom uglu. 
 
 # О Шебету
 
