@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /stari_brojevi_telefona
+path: /staribrojevitelefona
 date: 2024-03-22T16:27:20.426Z
 title: STARI BROJEVI TELEFONA
 metaDescription: >-
