@@ -1,7 +1,7 @@
 {
   "title": "Šebet",
   "siteUrl": "https://schebet.netlify.app",
-  "description": "(Vesti iz Šebet najnovije i ostale)",
+  "description": "Vesti iz Šebet najnovije a i šta je bilo po Šebet ranije.",
   "home": {
     "title": "Koje ima novo po Šebet !!! (a i šta je bilo po Šebet)",
     "description": "\n\n<script src=\"https://cdn.jsdelivr.net/gh/jryebread/shpe/chat.min.js\" id=\"še_bot-e3e7d081-dd83-49a0-8923-22393d50190d\"></script>"
