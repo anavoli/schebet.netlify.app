@@ -10,10 +10,4 @@ thumbnail: /assets/MUZIKA.png
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5WGS6zbT0iDaphjBhFmOFb/video?utm_source=generator" width="624" height="351" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-
-
-<iframe src="https://podcastle.ai/show/episode-embed-player/KVKcOX4h/FAOo08SV?theme=system&mode=compact" width="100%" height="150px"  style="border:none;background-color:transparent; " allowtransparency="true" />
-
-
-
 <iframe src="https://podcasters.spotify.com/pod/show/sebet/embed/episodes/OJ-IVANO-TI-DEVOJKE-e2isbns/a-ab73i6t" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
