@@ -8,8 +8,4 @@ thumbnail: /assets/MUZIKA.png
 ---
 # [Šebet melodije:](https://podcastle.ai/show/nlo-sleteo-u-šebet-KVKcOX4h)
 
-
-
 <iframe src="https://podcasters.spotify.com/pod/show/sebet/embed/episodes/OJ-IVANO-TI-DEVOJKE-e2isbns/a-ab73i6t" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
-<iframe src="https://podcasters.spotify.com/pod/show/sebet/embed/episodes/DVA-SE-MLADI-OGLEDAE-e2isg1k/a-ab73sep" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
