@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /Šebet melodije
+path: /sebetmelodije
 date: 2024-05-28T14:54:57.856Z
 title: Šebet melodije
 metaDescription: Pesmice i zvučni zapisi koji imaju veze sa selom Šebet
