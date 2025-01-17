@@ -6,3 +6,7 @@ title: Smešna strana
 thumbnail: /assets/OIP.jpeg
 ---
 https://free.theresanaiforthat.com/@schebetselo/najnoviji-vic-o-zaplanju/
+
+
+
+https://free.theresanaiforthat.com/ai/najnoviji-vic-o-zaplanju@2169936/?ref=share
